@@ -2,4 +2,4 @@
 
 # Dashboard for Hotel DB with MSAccess
 
-A simple dashboard for manage hotel DB made with MSAccess
+A simple dashboard for manage hotel DB made with MSAccess.
